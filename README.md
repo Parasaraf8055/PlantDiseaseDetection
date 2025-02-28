@@ -1,0 +1,3 @@
+Plant Disease Detection using AI and ML
+
+Dataset: https://www.kaggle.com/api/v1/datasets/download/vipoooool/new-plant-diseases-dataset?dataset_version_number=2...
